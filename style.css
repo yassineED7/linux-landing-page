@@ -7,9 +7,10 @@
 }
 
 body {
-    font-family: Roboto, ans-serif; 
+    font-family: Roboto, ans-serif;
 }
 
+/* header section */
 .header {
     display: flex;
     justify-content: space-between;
@@ -29,7 +30,7 @@ body {
 ul {
     display: flex;
     font-size: 18px;
-    
+
     gap: 16px;
     list-style: none;
 }
@@ -39,6 +40,7 @@ a {
     color: #E5E7EB;
 }
 
+/* hero section */
 .hero {
     display: flex;
     justify-content: space-between;
@@ -47,8 +49,10 @@ a {
 
     background-color: #1F2937;
     color: #E5E7EB;
-    
-    padding: 80px 180px;
+
+    padding: 80px 160px;
+
+
 }
 
 h1 {
@@ -64,6 +68,8 @@ p {
     flex-wrap: wrap;
     gap: 16px;
 
+    width: 450px;
+
 }
 
 button {
@@ -73,8 +79,54 @@ button {
     font-size: 18px;
     font-weight: bold;
 
-    padding: 4px 16px;
+    padding: 8px 16px;
     padding-right: 16px;
-    border: 1px none #3882F6 ;
+    border: 1px none #3882F6;
     border-radius: 8px;
+}
+
+/* Features section */
+.features {
+    display: flex;
+    align-items: center;
+
+    flex-direction: column;
+    padding: 0 160px;
+    margin-bottom: 64px;
+}
+
+.features-title {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+
+    margin: 32px;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+
+    gap: 36px;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+    gap: 8px;
+    text-align: center;
+
+}
+
+.img-card {
+    display: flex;
+    
+    border: 2px solid #3882F6;
+    border-radius: 16px;
+
+    width: 128px;
+    height: 128px;
+
 }
