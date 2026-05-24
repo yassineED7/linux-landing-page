@@ -38,3 +38,43 @@ a {
     text-decoration: none;
     color: #E5E7EB;
 }
+
+.hero {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* flex-direction: column; */
+
+    background-color: #1F2937;
+    color: #E5E7EB;
+    
+    padding: 80px 180px;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+p {
+    font-size: 18px;
+}
+
+.info-hero {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+
+}
+
+button {
+    background-color: #3882F6;
+    color: #E5E7EB;
+
+    font-size: 18px;
+    font-weight: bold;
+
+    padding: 4px 16px;
+    padding-right: 16px;
+    border: 1px none #3882F6 ;
+    border-radius: 8px;
+}
