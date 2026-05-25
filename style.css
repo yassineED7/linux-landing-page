@@ -16,7 +16,7 @@ body {
     justify-content: space-between;
     align-items: center;
     flex-direction: row;
-    padding: 20px 160px;
+    padding: 20px 270px;
 
     background-color: #1F2937;
     color: #E5E7EB;
@@ -50,7 +50,7 @@ a {
     background-color: #1F2937;
     color: #E5E7EB;
 
-    padding: 80px 160px;
+    padding: 80px 270px;
 
 
 }
@@ -88,10 +88,11 @@ button {
 /* Features section */
 .features {
     display: flex;
+    justify-content: center;
     align-items: center;
 
     flex-direction: column;
-    padding: 0 160px;
+    padding: 0 270px;
     margin-bottom: 128px;
 }
 
@@ -112,8 +113,12 @@ button {
 }
 
 .card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
     text-align: center;
-    width: 200px;
+    /* width: 200px; */
 
 }
 
@@ -122,8 +127,8 @@ button {
     border-radius: 16px;
     margin-bottom: 8px;
 
-    width: 130px;
-    height: 130px;
+    width: 160px;
+    height: 160px;
 }
 
 /* Quotes section */
@@ -133,7 +138,7 @@ button {
     align-items: end;
     flex-direction: column;
 
-    padding: 128px 160px;
+    padding: 128px 270px;
     gap: 8px;
     background-color: #E5E7EB;
 }
@@ -155,7 +160,7 @@ button {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 128px 160px;
+    padding: 128px 270px;
 
 }
 
