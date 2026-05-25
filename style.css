@@ -190,3 +190,15 @@ button {
 #cta-btn {
     border: 2px solid #E5E7EB;
 }
+
+/* footer section */
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+
+    font-size: 16px;
+    padding: 20px 0;
+    color: #E5E7EB;
+}
