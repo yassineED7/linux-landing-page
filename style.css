@@ -126,3 +126,27 @@ button {
     height: 130px;
     object-fit: contain;
 }
+
+/* Quotes section */
+.quotes-section {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    flex-direction: column;
+
+    padding: 128px 160px;
+    gap: 8px;
+    background-color: #E5E7EB;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.quote-author {
+    font-size: 18px;
+    font-weight: bold;
+
+}
