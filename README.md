@@ -17,14 +17,14 @@ The main goal of this assignment is to master **CSS Flexbox** layouts, practice 
 ## 🎯 Key Features of the Design
 * **Hero Section:** An engaging introduction to the power of Linux with a call-to-action button.
 * **Features Matrix:** A 4-card flexible layout showcasing the core advantages of Linux (Open Source, Package Managers, Performance, and Security).
-* **Quotes Section:** Featuring an inspiring quote from Linus Torvalds.
+* **Quotes Section:** Featuring an inspiring and custom developer proverb about Fedora Linux.
 * **Call-to-Action (CTA):** A clean section urging users to download and try Fedora Linux.
 
 ---
 
 ## 📸 Image Credits
 All images and icons used in this project are free-to-use and sourced legally from:
-* [Unsplash](https://unsplash.com/) / [Pexels](https://www.pexels.com/) (Include specific creator names here if needed)
+* [Unsplash](https://unsplash.com/) / [Pexels](https://www.pexels.com/)
 
 ---
 *Maintained with ❤️ by [yassineED7](https://github.com/yassineED7)*
