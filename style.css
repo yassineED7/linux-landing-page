@@ -150,3 +150,44 @@ button {
     font-weight: bold;
 
 }
+
+/* .Call-to-Action (CTA) */
+.cta-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 128px 160px;
+
+}
+
+.cta-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    background-color: #3882F6;
+    border: none;
+    border-radius: 8px;
+
+    flex: 1;
+    padding: 32px 90px;
+
+}
+
+.cta-title {
+    font-size: 24px;
+    color: #EEE;
+    font-weight: 500;
+
+    margin-bottom: 4px;
+}
+
+.cta-p {
+    font-size: 16px;
+    color: #E5E7EB;
+    font-weight: 500;
+}
+
+#cta-btn {
+    border: 2px solid #E5E7EB;
+}
