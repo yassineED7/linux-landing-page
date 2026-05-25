@@ -21,10 +21,4 @@ The main goal of this assignment is to master **CSS Flexbox** layouts, practice 
 * **Call-to-Action (CTA):** A clean section urging users to download and try Fedora Linux.
 
 ---
-
-## 📸 Image Credits
-All images and icons used in this project are free-to-use and sourced legally from:
-* [Unsplash](https://unsplash.com/) / [Pexels](https://www.pexels.com/)
-
----
 *Maintained with ❤️ by [yassineED7](https://github.com/yassineED7)*
